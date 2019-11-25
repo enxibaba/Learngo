@@ -92,6 +92,7 @@ func enums() {
 		mb
 		gb
 		tb
+		_
 		pb
 	)
 
